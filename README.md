@@ -16,3 +16,9 @@ Or if you already cloned the repo and are in the re_demo_setup
 directory:
 
 bash re_demo_setup.sh
+
+Or if you have a clean Ubuntu 16.04 use:
+
+wget https://raw.githubusercontent.com/raildex1/re_demo_setup/master/re_demo_setup.sh && chmod +x re_demo_setup.sh && bash re_demo_setup.sh
+
+since you wouldn't have Git installed yet.
