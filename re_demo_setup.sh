@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 echo Installing everything needed for Ubuntu 16.04 for the RevEng seminar
 echo
 
