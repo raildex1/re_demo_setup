@@ -1,6 +1,5 @@
 #!/bin/bash
-echo Installing everything needed for Ubuntu 16.04 for the Reverse 
-Engineering seminar...
+echo Installing everything needed for Ubuntu 16.04 for the Reverse Engineering seminar...
 echo
 
 sudo apt update
@@ -22,8 +21,7 @@ rm -f BinaryNinja-demo.zip
 
 echo
 echo 
-echo Install Complete! If any errors occured please make a pull request 
-:)
+echo Install Complete! If any errors occured please make a pull request :)
 echo To start gdb (with pwndbg) type:
 echo gdb
 echo 
