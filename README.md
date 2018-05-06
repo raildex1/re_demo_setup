@@ -7,8 +7,10 @@ You MUST use Ubuntu 16.04 inside a VM for this script to work.
 Kali Linux will NOT work.
 
 Install Ubuntu 16.04 LTS using the .iso from http://releases.ubuntu.com/16.04/ - The 64-bit Desktop Image. 
-Then run this one liner before using the script - 
+Then run this one liner - 
+
 sudo apt-get update && sudo apt-get upgrade && shutdown -r now
+
 Once the system restarts login and use the script as shown below.
 
 There's currently an issue as a result of the system pip being different from the pip currently being deployed in Python 3. Until then this script will fail until Ubuntu/Debian/pypa sorts it out.
