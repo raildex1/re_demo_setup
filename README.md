@@ -7,7 +7,7 @@ You MUST use Ubuntu 16.04 inside a VM for this script to work.
 Kali Linux will NOT work.
 
 **Install Ubuntu 16.04 LTS using the .iso from http://releases.ubuntu.com/16.04/ - The 64-bit Desktop Image. 
-Then run this one liner - **
+Then run this one liner -**
 
 sudo apt-get update && sudo apt-get upgrade && sudo shutdown -r now
 
