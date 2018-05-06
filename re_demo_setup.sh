@@ -9,7 +9,7 @@ echo
 sudo add-apt-repository ppa:ci-train-ppa-service/3152
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt update
-sudo apt install unzip gdb git open-vm-tools open-vm-tools-desktop open-vm-tools-dkms python3.6 -y
+sudo apt install unzip gdb git open-vm-tools open-vm-tools-desktop open-vm-tools-dkms python3.6 vim htop -y
 git clone https://github.com/pwndbg/pwndbg
 cd pwndbg
 
