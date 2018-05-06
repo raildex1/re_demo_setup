@@ -9,7 +9,7 @@ Kali Linux will NOT work.
 Install Ubuntu 16.04 LTS using the .iso from http://releases.ubuntu.com/16.04/ - The 64-bit Desktop Image. 
 Then run this one liner - 
 
-sudo apt-get update && sudo apt-get upgrade && shutdown -r now
+sudo apt-get update && sudo apt-get upgrade && sudo shutdown -r now
 
 Once the system restarts login and use the script as shown below.
 
